@@ -4,13 +4,8 @@
 
 <p align="center">
   <a href="https://wwj5.github.io/HowToLoveBetter/"><img src="assets/badges/online.svg" height="28" alt="在线版"></a>
-  <a href="https://github.com/wwj5/HowToLoveBetter/releases/latest"><img src="assets/badges/version.svg" height="28" alt="v1.0.0"></a>
   <a href="高性价比恋爱指南.pdf"><img src="assets/badges/pdf.svg" height="28" alt="179 页 PDF"></a>
-  <img src="assets/badges/chapters.svg" height="28" alt="41 章 8 篇">
-  <img src="assets/badges/words.svg" height="28" alt="8.8 万字">
-  <img src="assets/badges/tables.svg" height="28" alt="37 张表">
   <img src="assets/badges/evidence.svg" height="28" alt="证据 A/B/C">
-  <img src="assets/badges/license.svg" height="28" alt="CC BY 4.0">
   <img src="assets/badges/deepseek.svg" height="28" alt="DeepSeek 协助撰写">
 </p>
 
