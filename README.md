@@ -12,6 +12,7 @@
   <img src="assets/badges/deepseek.svg" height="28" alt="DeepSeek 协助撰写">
   <a href="https://qm.qq.com/q/drsbPFKcH6" target="_blank"><img src="assets/badges/qq.svg" height="28" alt="加入 QQ 群"></a>
 </p>
+<p align="center"><sub>QQ 群「高性价比恋爱指南」· 群号 <b>2152087978</b></sub></p>
 
 ---
 
