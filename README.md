@@ -3,9 +3,11 @@
 </p>
 
 <p align="center">
+  <a href="https://wwj5.github.io/HowToLoveBetter/"><img src="https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E7%89%88-%E7%82%B9%E6%AD%A4%E9%98%85%E8%AF%BB-1F4FA3?style=flat-square" alt="在线版"></a>
+  <a href="https://github.com/wwj5/HowToLoveBetter/releases/latest"><img src="https://img.shields.io/badge/%E6%9C%80%E6%96%B0%E7%89%88-v1.0.0-7A6A4E?style=flat-square" alt="最新版"></a>
   <a href="高性价比恋爱指南.pdf"><img src="https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-179%20%E9%A1%B5%20PDF-14161A?style=flat-square" alt="下载 PDF"></a>
-  <img src="https://img.shields.io/badge/%E7%AB%A0-41-7A6A4E?style=flat-square" alt="41 章">
-  <img src="https://img.shields.io/badge/%E8%A1%A8-37-4E5257?style=flat-square" alt="37 张表">
+  <img src="https://img.shields.io/badge/%E7%AB%A0-41-4E5257?style=flat-square" alt="41 章">
+  <img src="https://img.shields.io/badge/%E8%A1%A8-37-868178?style=flat-square" alt="37 张表">
   <img src="https://img.shields.io/badge/%E5%AD%97%E6%95%B0-8.8%20%E4%B8%87-868178?style=flat-square" alt="8.8 万字">
   <img src="https://img.shields.io/badge/%E8%AF%81%E6%8D%AE-A%C2%B7B%C2%B7C-2E7D5B?style=flat-square" alt="证据分级">
   <img src="https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF-CC%20BY%204.0-C2410C?style=flat-square" alt="CC BY 4.0">
