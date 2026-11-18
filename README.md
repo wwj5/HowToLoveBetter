@@ -10,6 +10,7 @@
   <a href="https://github.com/wwj5/HowToLoveBetter/raw/main/高性价比恋爱指南.pdf"><img src="assets/badges/pdf.svg" height="28" alt="179 页 PDF"></a>
   <img src="assets/badges/evidence.svg" height="28" alt="证据 A/B/C">
   <img src="assets/badges/deepseek.svg" height="28" alt="DeepSeek 协助撰写">
+  <a href="https://qm.qq.com/q/drsbPFKcH6" target="_blank"><img src="assets/badges/qq.svg" height="28" alt="加入 QQ 群"></a>
 </p>
 
 ---
@@ -62,12 +63,6 @@
 - 在线阅读：`read.html`，41 章全文，带侧边目录、章节锚点、可调字号
 - PDF 预览：`pdf.html`，站内直接翻页看，不用先下载
 - PDF：`高性价比恋爱指南.pdf`，A4，179 页，含带页码目录
-
-## 读者群
-
-书里有些话，是要对着具体的人、具体的事才好用的。你手上这件事对得上哪一章、要不要继续、彩礼怎么谈，打字问一句，比一个人闷着想快得多。群不卖课，不搞付费咨询，也不发广告。
-
-**[→ 加入 QQ 群「高性价比恋爱指南」](https://qm.qq.com/q/drsbPFKcH6)**
 
 ## 赞赏
 
