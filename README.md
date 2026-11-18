@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://wwj5.github.io/HowToLoveBetter/"><img src="assets/badges/online.svg" height="28" alt="在线版"></a>
-  <a href="高性价比恋爱指南.pdf"><img src="assets/badges/pdf.svg" height="28" alt="179 页 PDF"></a>
+  <a href="https://wwj5.github.io/HowToLoveBetter/read.html"><img src="assets/badges/online.svg" height="28" alt="在线阅读"></a>
+  <a href="https://wwj5.github.io/HowToLoveBetter/pdf.html"><img src="assets/badges/pdf.svg" height="28" alt="179 页 PDF"></a>
   <img src="assets/badges/evidence.svg" height="28" alt="证据 A/B/C">
   <img src="assets/badges/deepseek.svg" height="28" alt="DeepSeek 协助撰写">
 </p>
@@ -56,6 +56,8 @@
 ## 版本与文件
 
 - 版本：2026 年 11 月 · 内部版
+- 在线阅读：`read.html`，41 章全文，带侧边目录、章节锚点、可调字号
+- PDF 预览：`pdf.html`，站内直接翻页看，不用先下载
 - PDF：`高性价比恋爱指南.pdf`，A4，179 页，含带页码目录
 
 ## 赞赏
