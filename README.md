@@ -2,6 +2,9 @@
   <img src="assets/cover.png" alt="高性价比恋爱指南 · 从识破消耗型关系，到结婚生子" width="100%">
 </p>
 
+<h3 align="center">HowToLoveBetter　·　高性价比恋爱指南</h3>
+<p align="center"><sub>用最少的时间、钱和情绪，换回一段能过下去的关系</sub></p>
+
 <p align="center">
   <a href="https://wwj5.github.io/HowToLoveBetter/"><img src="assets/badges/online.svg" height="28" alt="在线版"></a>
   <a href="https://github.com/wwj5/HowToLoveBetter/raw/main/高性价比恋爱指南.pdf"><img src="assets/badges/pdf.svg" height="28" alt="179 页 PDF"></a>
