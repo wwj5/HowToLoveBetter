@@ -12,9 +12,6 @@
   <img src="https://img.shields.io/badge/%E6%AF%8D%E6%9C%AC-HowToLiveBetter-555555?style=flat-square" alt="母本">
 </p>
 
-<h1 align="center">高性价比恋爱指南</h1>
-<p align="center"><i>从识破消耗型关系，到结婚生子</i></p>
-
 ---
 
 ## 这本书讲什么
