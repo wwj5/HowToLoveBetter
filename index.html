@@ -22,6 +22,10 @@
     letter-spacing:.18em;padding:6px 14px;border-radius:6px;background:#fff;
     box-shadow:0 1px 3px rgba(0,0,0,.06)}
   .brand i{width:15px;height:15px;border-radius:4px;background:#1f4fa3;display:block}
+  .sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap}
+  .cover{display:block;width:100%;height:auto;margin:22px 0 16px;border:1px solid var(--line);
+    border-radius:12px;box-shadow:0 12px 34px rgba(20,22,26,.07)}
+  .shields img{height:22px;margin:0 6px 6px 0;vertical-align:middle}
   h1{font-size:52px;line-height:1.28;margin:26px 0 12px;letter-spacing:.01em;font-weight:800}
   h1 em{font-style:normal;color:var(--blue)}
   .sub{font-size:16px;color:var(--gray);margin:0 0 26px;letter-spacing:.06em}
@@ -60,15 +64,16 @@
 <header>
   <div class="wrap">
     <div class="brand"><i></i>高性价比恋爱指南</div>
-    <h1>用最少的<em>时间、钱和情绪</em>，<br>换回一段能过下去的关系</h1>
-    <p class="sub">从识破消耗型关系，到同居、见家长、结婚生子</p>
-    <div class="badges">
-      <span class="badge"><b>41</b> 章</span>
-      <span class="badge"><b>37</b> 张表</span>
-      <span class="badge">约 <b>8.8</b> 万字</span>
-      <span class="badge"><b>A / B</b> 级证据标注</span>
-      <span class="badge"><b>179</b> 页 · 免费 PDF</span>
-    </div>
+    <h1 class="sr-only">高性价比恋爱指南 · 从识破消耗型关系，到结婚生子</h1>
+    <img class="cover" src="assets/cover.png" alt="高性价比恋爱指南 封面">
+    <p class="shields">
+      <img src="https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-179%20%E9%A1%B5%20PDF-14161A?style=flat-square" alt="下载 PDF">
+      <img src="https://img.shields.io/badge/%E7%AB%A0-41-7A6A4E?style=flat-square" alt="41 章">
+      <img src="https://img.shields.io/badge/%E8%A1%A8-37-4E5257?style=flat-square" alt="37 张表">
+      <img src="https://img.shields.io/badge/%E5%AD%97%E6%95%B0-8.8%20%E4%B8%87-868178?style=flat-square" alt="8.8 万字">
+      <img src="https://img.shields.io/badge/%E8%AF%81%E6%8D%AE-A%C2%B7B%C2%B7C-2E7D5B?style=flat-square" alt="证据分级">
+      <img src="https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF-CC%20BY%204.0-C2410C?style=flat-square" alt="CC BY 4.0">
+    </p>
   </div>
 </header>
 

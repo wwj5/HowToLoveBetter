@@ -1,8 +1,19 @@
-# 高性价比恋爱指南
+<p align="center">
+  <img src="assets/cover.png" alt="高性价比恋爱指南 · 从识破消耗型关系，到结婚生子" width="100%">
+</p>
 
-> 从识破消耗型关系，到结婚生子
+<p align="center">
+  <a href="高性价比恋爱指南.pdf"><img src="https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-179%20%E9%A1%B5%20PDF-14161A?style=flat-square" alt="下载 PDF"></a>
+  <img src="https://img.shields.io/badge/%E7%AB%A0-41-7A6A4E?style=flat-square" alt="41 章">
+  <img src="https://img.shields.io/badge/%E8%A1%A8-37-4E5257?style=flat-square" alt="37 张表">
+  <img src="https://img.shields.io/badge/%E5%AD%97%E6%95%B0-8.8%20%E4%B8%87-868178?style=flat-square" alt="8.8 万字">
+  <img src="https://img.shields.io/badge/%E8%AF%81%E6%8D%AE-A%C2%B7B%C2%B7C-2E7D5B?style=flat-square" alt="证据分级">
+  <img src="https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF-CC%20BY%204.0-C2410C?style=flat-square" alt="CC BY 4.0">
+  <img src="https://img.shields.io/badge/%E6%AF%8D%E6%9C%AC-HowToLiveBetter-555555?style=flat-square" alt="母本">
+</p>
 
-**41 章 · 37 张表 · 约 8.8 万字 · A/B 级证据标注 · 免费 PDF**
+<h1 align="center">高性价比恋爱指南</h1>
+<p align="center"><i>从识破消耗型关系，到结婚生子</i></p>
 
 ---
 
