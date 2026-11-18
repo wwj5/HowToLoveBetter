@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://wwj5.github.io/HowToLoveBetter/read.html"><img src="assets/badges/online.svg" height="28" alt="在线阅读"></a>
+  <a href="https://wwj5.github.io/HowToLoveBetter/"><img src="assets/badges/online.svg" height="28" alt="在线版"></a>
   <a href="https://github.com/wwj5/HowToLoveBetter/raw/main/高性价比恋爱指南.pdf"><img src="assets/badges/pdf.svg" height="28" alt="179 页 PDF"></a>
   <img src="assets/badges/evidence.svg" height="28" alt="证据 A/B/C">
   <img src="assets/badges/deepseek.svg" height="28" alt="DeepSeek 协助撰写">
