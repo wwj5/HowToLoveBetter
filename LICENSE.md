@@ -2,7 +2,7 @@
 
 本书沿用母本《高性价比人生指南》的双许可：
 
-- **正文内容**（`README.md`、`许可与转发条款.md`、`高性价比恋爱指南.pdf`、`源文件/高性价比恋爱指南_全本.docx` 的文字部分）：  
+- **正文内容**（`README.md`、`许可与转发条款.md`、`高性价比恋爱指南.pdf` 的文字部分）：  
   **CC-BY-4.0** — Creative Commons Attribution 4.0 International  
   全文：https://creativecommons.org/licenses/by/4.0/legalcode
 
