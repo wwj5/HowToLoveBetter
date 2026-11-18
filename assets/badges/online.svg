@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="28" viewBox="0 0 140 28" role="img" aria-label="在线版 点击阅读">
+  <rect x="0.5" y="0.5" width="139" height="27" rx="4" fill="#14161A" stroke="#14161A" stroke-width="1"/>
+  <text x="11" y="18.2" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="11.5" fill="#C9C2B4" letter-spacing="0.5">在线版</text>
+  <line x1="58.019999999999996" y1="6.5" x2="58.019999999999996" y2="21.5" stroke="#4A4D52" stroke-width="1"/>
+  <text x="63.519999999999996" y="18.2" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="12.5" font-weight="600" fill="#FFFFFF" letter-spacing="0.4">点击阅读</text>
+</svg>

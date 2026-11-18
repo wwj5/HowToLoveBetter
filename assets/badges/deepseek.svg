@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="232" height="28" viewBox="0 0 232 28" role="img" aria-label="协作 DeepSeek 协助撰写">
+  <rect x="0.5" y="0.5" width="231" height="27" rx="4" fill="#4D6BFE" stroke="#4D6BFE" stroke-width="1"/>
+  <text x="11" y="18.2" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="11.5" fill="#D8E0FF" letter-spacing="0.5">协作</text>
+  <line x1="44.18" y1="6.5" x2="44.18" y2="21.5" stroke="#7A90FF" stroke-width="1"/>
+  <text x="49.68" y="18.2" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="12.5" font-weight="600" fill="#FFFFFF" letter-spacing="0.4">◆ DeepSeek 协助撰写</text>
+</svg>
