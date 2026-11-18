@@ -52,11 +52,24 @@
   .btn.primary:hover{background:#193f83}
   .btn.ghost{border:1px solid var(--line);color:var(--gray);background:#fff}
   .btn.ghost:hover{border-color:var(--accent);color:var(--accent)}
+  .support{display:flex;gap:26px;align-items:center;background:#fff;border:1px solid var(--line);
+    border-radius:10px;padding:24px;margin:16px 0 8px}
+  .support img{width:216px;height:auto;border-radius:8px;border:1px solid #efece4}
+  .support p{font-size:15.5px;margin:0 0 10px;line-height:1.8}
+  .support p:last-child{margin-bottom:0}
+  .support .tiny{font-family:system-ui,sans-serif;font-size:12.5px;color:var(--light);letter-spacing:.04em}
+  .ad{margin:28px 0 10px;padding:22px 24px;border:1px dashed #dcd5c6;border-radius:10px;
+    background:#fcfbf6;text-align:center}
+  .ad .tag{display:inline-block;font-family:system-ui,sans-serif;font-size:11px;letter-spacing:.24em;
+    color:var(--accent);border:1px solid #e2d9c4;padding:3px 10px;border-radius:3px;background:#fff}
+  .ad p{font-family:system-ui,sans-serif;font-size:14.5px;color:var(--gray);margin:12px 0 0}
+  .ad a{color:var(--accent);text-decoration:none;border-bottom:1px solid #e0d6bf}
   footer{margin-top:56px;padding:30px 0 60px;border-top:1px solid var(--line);
     font-family:system-ui,sans-serif;font-size:13px;color:var(--light);line-height:2}
   footer strong{color:var(--gray);font-weight:600}
   @media(max-width:680px){
     h1{font-size:34px} .grid{grid-template-columns:1fr} header{padding:56px 0 34px}
+    .support{flex-direction:column;align-items:center;text-align:left} .support img{width:200px}
   }
 </style>
 </head>
@@ -119,9 +132,27 @@
   </p>
 
   <h2>下载</h2>
+  <h2>下载</h2>
   <div class="download">
     <a class="btn primary" href="高性价比恋爱指南.pdf">下载 PDF（179 页）</a>
     <a class="btn ghost" href="许可与转发条款.md">许可与转发条款</a>
+  </div>
+
+  <h2>赞赏</h2>
+  <div class="support">
+    <img src="assets/appreciate.jpg" alt="微信赞赏码">
+    <div>
+      <p><strong>这本书免费到底。</strong>179 页，没有付费墙，也不打算再出一个收费的第二版。</p>
+      <p>如果它帮你少走了半年弯路，或者替你把一次没想明白的分手捋顺了，可以扫这张码，请我喝杯咖啡。金额随意，一块两块都行。</p>
+      <p class="tiny">赞赏完全自愿，跟能不能下载没有关系——不给钱也一样能读、能转、能打印。</p>
+    </div>
+  </div>
+
+  <h2>广告位</h2>
+  <div class="ad">
+    <span class="tag">AD</span>
+    <p>这里留一个位置，只放我读过、觉得对读者有用的东西：朋友写的书、顺手的工具、值得看的一门课。不做竞价排名，也不挂返利链接。</p>
+    <p>想放到这里，<a href="https://github.com/wwj5/HowToLoveBetter/issues/new">在仓库里开个 issue</a>，把你的东西和一句话介绍写清楚就行。</p>
   </div>
 </main>
 
